@@ -191,7 +191,7 @@ Sobre a supervisão do Pofessor Wagner Palmeira.
 
 Utilizamos a opnião e conhecimento do Aluno Miguel Pereira do 7 período da instituição CESMAC.
 
-Com a ajuda e a mentoria de Miguel dentro dos limites, foi passados alguns artigos de JavaScript e seus Frameworks com o intuito de aprendizado.
+Com a ajuda e a mentoria de Miguel dentro dos limites, foi passados alguns artigos de JavaScript com o intuito de aprendizado.
 
 ## Atendendo aos requisitos 
 
