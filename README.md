@@ -1,4 +1,4 @@
-# Taylor-Swift-s-Album-Collections
+# Taylor-Swift
 ## Trabalho para apresentação da 2/3 Av
 
 ### Alunos:
